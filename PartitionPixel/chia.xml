@@ -10,7 +10,7 @@
   <Support>https://forums.unraid.net/topic/108203-support-partition-pixel-chia/</Support>
   <Project>https://www.chia.net/</Project>
   <Overview>This template uses the official Chia-Docker. Chia-Docker is a containerised version of the Chia Blockchain (no GUI) for HDD Farming. Helps turn your Unraid server into a XCH / cryptocurrency farming rig.</Overview>
-  <Category>Tools: Other: Network:Web Network:Other</Category>
+  <Category>Tools: Other: Network:Web Network:Other Crypto:</Category>
   <WebUI/>
   <TemplateURL>https://raw.githubusercontent.com/PartitionPixel/unraid-templates/main/PartitionPixel/chia.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/PartitionPixel/unraid-templates/main/PartitionPixel/chia-icon.png</Icon>
